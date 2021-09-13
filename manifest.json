@@ -2,6 +2,9 @@
     "commerceSuiteVersion":"2011.9",
     "solrVersion": "8.9.1"
     "extensions": [
+	        "adaptivesearchbackoffice",
+        "adaptivesearchsamplesaddon",
+        "adaptivesearchwebservices",
 		"commerceservicesbackoffice",
 		"solrfacetsearchbackoffice",
 		"solrserver",
